@@ -198,6 +198,10 @@ nav ul ul li {
   height: 64px;
 }
 
+.block-button a {
+  color: #000000;
+}
+
 .photo1 {
   position: absolute;
   left: 46.32%;
